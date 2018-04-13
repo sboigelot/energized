@@ -1,0 +1,21 @@
+{
+    "type": "recipe",
+    "work_units": 3,
+    "recipe_name": "Energized Moded electric_street_light",
+    "description": "Better than every item.",
+    "flavor": "Stonehearthians will think this line of text",
+    "portrait": "/energized/entities/decorations/electric_street_light/electric_street_light.png",
+    "workshop": "stonehearth:carpenter:workbench",
+    "level_requirement": 0,
+    "ingredients": [
+        {
+            "uri": "energized:resources:powercell",
+            "count": 2
+        }
+    ],
+    "produces": [
+        {
+            "item": "energized:decorations:electric_street_light"
+        }
+    ]
+}

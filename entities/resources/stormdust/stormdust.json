@@ -1,0 +1,36 @@
+{
+   "mixins": "stonehearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(stormdust.qb)"
+            ]
+         }
+      }
+   },
+   "entity_data": {
+      "stonehearth:net_worth": {
+         "value_in_gold": 1,
+         "rarity": "common",
+         "shop_info": {
+            "buyable": true,
+            "sellable": true,
+            "shopkeeper_level": 1,
+            "shopkeeper_type": "caravan"
+         }
+      },
+      "stonehearth:catalog": {
+         "display_name": "stormdust",
+         "description": "stormdust",
+         "icon": "file(stormdust.png)",
+         "is_item": true,
+         "category": "resources",
+         "material_tags": "stockpile_ore stormdust ore resource"
+      },
+      "stonehearth:appeal": {
+         "appeal": -2
+      }
+   }
+}

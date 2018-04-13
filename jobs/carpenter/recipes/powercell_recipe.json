@@ -1,0 +1,21 @@
+{
+    "type": "recipe",
+    "work_units": 3,
+    "recipe_name": "Energized Moded Powercell",
+    "description": "Better than every item.",
+    "flavor": "Stonehearthians will think this line of text",
+    "portrait": "/energized/entities/resources/powercell/powercell.png",
+    "workshop": "stonehearth:carpenter:workbench",
+    "level_requirement": 0,
+    "ingredients": [
+        {
+            "uri": "energized:resources:stormdust",
+            "count": 5
+        }
+    ],
+    "produces": [
+        {
+            "item": "energized:resources:powercell"
+        }
+    ]
+}

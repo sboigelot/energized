@@ -1,0 +1,9 @@
+{
+    "crops": {
+       "turnip": {
+          "crop_type": "energized:crops:stormberry",
+          "ordinal": 14,
+          "level_requirement": 0
+       }
+    } 
+} 

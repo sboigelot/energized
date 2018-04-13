@@ -1,0 +1,19 @@
+{
+    "info": {
+        "name": "energized",
+        "version": 3
+    },
+    "aliases": {
+        "energized_battery": "file(entities/energized_battery/energized_battery.json)",
+        "crops:stormberry": "file(entities/crops/stormberry/stormberry.json)",
+        "decorations:electric_street_light": "file(entities/decorations/electric_street_light/electric_street_light.json)",
+        "resources:stormdust": "file(entities/resources/stormdust/stormdust.json)",
+        "resources:powercell": "file(entities/resources/powercell/powercell.json)",
+        "effects:street_light_effect" : "file(data/effects/street_light_effect/street_light_effect.json)"
+    },
+    "mixintos": {
+        "stonehearth/jobs/carpenter/recipes/recipes.json": "file(jobs/carpenter/recipes/recipes.json)",
+        "stonehearth:farmer:initial_crops": "file(services/server/farming/data/initial_crops.json)",
+        "stonehearth/services/server/farming/data/all_crops.json": "file(services/server/farming/data/all_crops.json)"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "type": "entity",
+    "components": {
+       "model_variants": {
+            "default": {
+                "models": [
+                    "file(stormberry_4.qb)"
+                ]
+            },
+            "stormberry_0": {
+                "models": [
+                    "file(stormberry_0.qb)"
+                ]
+            },
+            "stormberry_1": {
+                "models": [
+                    "file(stormberry_1.qb)"
+                ]
+            },
+            "stormberry_2": {
+                "models": [
+                    "file(stormberry_2.qb)"
+                ]
+            },
+            "stormberry_3": {
+                "models": [
+                    "file(stormberry_3.qb)"
+                ]
+            },
+            "stormberry_4": {
+                "models": [
+                    "file(stormberry_4.qb)"
+                ]
+            }
+       },
+       "mob": {
+          "model_origin": { "x": -0.05, "y": 0, "z": 0.05 }
+       },
+       "stonehearth:crop": {
+          "resource_pairings": {
+            "stormberry_4": "energized:resources:stormdust"
+          },
+          "harvest_threshhold": "stormberry_4",
+          "plant_overlay_effect": "stonehearth:effects:plant_crop_overlay_effect"
+       },
+       "stonehearth:growing": {
+          "growth_period": "1h",
+          "growth_stages": [
+            {
+               "model_name": "stormberry_0",
+               "name": "stormberry crop",
+               "description": "stormberry crop description"
+            },
+             {
+                "model_name": "stormberry_1",
+                "name": "stormberry crop",
+                "description": "stormberry crop description"
+             },
+             {
+                "model_name": "stormberry_2",
+                "name": "stormberry crop",
+                "description": "stormberry crop description"
+             },
+             {
+                "model_name": "stormberry_3",
+                "name": "stormberry crop",
+                "description": "stormberry crop description"
+             },
+             {
+                "model_name": "stormberry_4",
+                "name": "stormberry crop",
+                "description": "stormberry crop description"
+             }
+          ]
+       }
+    },
+    "entity_data": {
+       "stonehearth:net_worth": {
+          "value_in_gold": 0.5,
+          "rarity": "common",
+          "shop_info": {
+             "buyable": false,
+             "sellable": false
+          }
+       },
+       "stonehearth:catalog": {
+          "display_name": "Storm Berry",
+          "description": "Storm Berry description",
+          "icon": "file(stormberry.png)",
+          "material_tags": "crop stormberry"
+       },
+       "stonehearth:appeal": {
+          "appeal": 1
+       }
+    }
+ }
