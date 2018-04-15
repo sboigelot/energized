@@ -25,6 +25,24 @@
           "recipe": "file(wooden_electric_street_light_recipe.json)"
         }
       }
-    }
+    },
+    "armor": {
+      "ordinal": 50,
+      "name": "i18n(stonehearth:jobs.blacksmith.recipes.armor_name)",
+      "recipes": {
+         "power_armor": {
+            "recipe": "file(power_armor_recipe.json)"
+         },
+         "power_helmet": {
+            "recipe": "file(power_helmet_recipe.json)"
+         },
+         "power_shield": {
+            "recipe": "file(power_shield_recipe.json)"
+         },
+         "power_circlet": {
+            "recipe": "file(power_circlet_recipe.json)"
+         }
+      }
+   }
   }
 }

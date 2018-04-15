@@ -1,0 +1,26 @@
+{
+   "type": "recipe",
+   "effort": 120,
+   "work_units": 20,
+   "recipe_name": "Power shield",
+   "description": "Power shield",
+   "flavor": "",
+   "portrait": "/energized/entities/armor/power_shield/power_shield.png",
+   "workshop": "energized:workbenches:engineer_energizer",
+   "level_requirement": 6,
+   "ingredients": [
+    {
+       "uri": "stonehearth:armor:steel_shield",
+       "count": 1
+    },
+    {
+      "uri": "energized:resources:powercell",
+       "count": 2
+    }
+   ],
+   "produces": [
+      {
+         "item": "energized:armor:power_shield"
+      }
+   ]
+}

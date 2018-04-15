@@ -1,0 +1,26 @@
+{
+   "type": "recipe",
+   "effort": 45,
+   "work_units": 5,
+   "recipe_name": "Power circlet",
+   "description": "Power circlet",
+   "flavor": "",
+   "portrait": "/energized/entities/armor/power_circlet/power_circlet.png",
+   "workshop": "energized:workbenches:engineer_energizer",
+   "level_requirement": 4,
+   "ingredients": [
+      {
+         "uri": "stonehearth:armor:steel_circlet",
+         "count": 2
+      },
+      {
+        "uri": "energized:resources:powercell",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "energized:armor:power_circlet"
+      }
+   ]
+}

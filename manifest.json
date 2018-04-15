@@ -4,6 +4,10 @@
         "version": 3
     },
     "aliases": {
+        "armor:power_circlet": "file(entities/armor/power_circlet/power_circlet.json)",
+        "armor:power_helmet": "file(entities/armor/power_helmet)",
+        "armor:power_armor": "file(entities/armor/power_armor)",
+        "armor:power_shield": "file(entities/armor/power_shield/power_shield.json)",
         "energized_battery": "file(entities/energized_battery/energized_battery.json)",
         "crops:stormberry": "file(entities/crops/stormberry/stormberry.json)",
         "decorations:wooden_electric_street_light": "file(entities/decorations/wooden_electric_street_light/wooden_electric_street_light.json)",
