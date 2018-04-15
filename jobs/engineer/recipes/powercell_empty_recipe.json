@@ -1,0 +1,22 @@
+{
+    "type": "recipe",
+    "work_units": 3,
+    "recipe_name": "Energized Moded Powercell Empty",
+    "description": "Better than every item.",
+    "flavor": "Stonehearthians will think this line of text",
+    "portrait": "/energized/entities/resources/powercell_empty/powercell_empty.png",
+    "workshop": "stonehearth:engineer:workbench",
+    "level_requirement": 0,
+    "ingredients": [
+        {
+            "uri": "stonehearth:refined:tin_ingot",
+            "count": 1
+        }
+    ],
+    "produces": [
+        {
+            "item": "energized:resources:powercell_empty",
+            "count": 1
+        }
+    ]
+}

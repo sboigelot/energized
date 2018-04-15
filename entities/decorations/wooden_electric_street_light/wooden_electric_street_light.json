@@ -1,6 +1,6 @@
 {
    "type": "entity",
-   "mixins": "file(electric_street_light_ghost.json)",
+   "mixins": "file(wooden_electric_street_light_ghost.json)",
    "components": {
       "region_collision_shape": {
          "region": [
@@ -14,8 +14,8 @@
          "light_effect": "energized:effects:street_light_effect"
       },
       "stonehearth:entity_forms": {
-         "iconic_form": "file(electric_street_light_iconic.json)",
-         "ghost_form": "file(electric_street_light_ghost.json)",
+         "iconic_form": "file(wooden_electric_street_light_iconic.json)",
+         "ghost_form": "file(wooden_electric_street_light_ghost.json)",
          "placeable_on_ground": true
       }
    },

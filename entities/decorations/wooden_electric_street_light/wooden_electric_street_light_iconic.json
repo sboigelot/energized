@@ -5,7 +5,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(electric_street_light.qb)"
+               "file(wooden_electric_street_light.qb)"
             ]
          }
       }

@@ -1,0 +1,29 @@
+{
+    "type": "recipe",
+    "work_units": 3,
+    "recipe_name": "engineer_energizer",
+    "description": "Better than every item.",
+    "flavor": "Stonehearthians will think this line of text",
+    "portrait": "/energized/jobs/engineer/engineer_energizer/engineer_energizer.png",
+    "workshop": "stonehearth:engineer:workbench",
+    "level_requirement": 0,
+    "ingredients": [
+        {
+            "uri": "stonehearth:refined:bronze_gear",
+            "count": 1
+        },
+        {
+            "uri": "stonehearth:refined:iron_gear",
+            "count": 2
+        },
+        {
+           "material": "wood resource",
+           "count": 3
+        }
+    ],
+    "produces": [
+        {
+            "item": "energized:workbenches:engineer_energizer"
+        }
+    ]
+}

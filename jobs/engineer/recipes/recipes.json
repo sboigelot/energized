@@ -1,0 +1,30 @@
+{
+  "craftable_recipes": {
+    "workbenches": {
+      "recipes": {
+         "engineer_energizer": {
+            "recipe": "file(engineer_energizer_recipe.json)"
+         }
+      }
+   },
+    "energy": {
+      "ordinal": 6,
+      "name": "Energy",
+      "recipes": {
+        "powercell_empty": {
+          "recipe": "file(powercell_empty_recipe.json)"
+        },
+        "powercell": {
+          "recipe": "file(powercell_recipe.json)"
+        }
+      }
+    },
+    "decorations": {
+      "recipes": {
+        "wooden_electric_street_light": {
+          "recipe": "file(wooden_electric_street_light_recipe.json)"
+        }
+      }
+    }
+  }
+}

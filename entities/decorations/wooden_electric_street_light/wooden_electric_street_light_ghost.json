@@ -4,7 +4,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(electric_street_light.qb)"
+               "file(wooden_electric_street_light.qb)"
             ]
          }
       },
@@ -19,9 +19,9 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "electric_street_light",
-         "description": "electric_street_light",
-         "icon": "file(electric_street_light.png)",
+         "display_name": "wooden_electric_street_light",
+         "description": "wooden_electric_street_light",
+         "icon": "file(wooden_electric_street_light.png)",
          "category": "decoration",
          "material_tags": "light_source crafted stockpile_decoration"
       }
