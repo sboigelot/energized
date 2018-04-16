@@ -1,0 +1,26 @@
+{
+    "type": "recipe",
+    "effort": 140,
+    "work_units": 8,
+    "recipe_name": "Long power sword",
+    "description": "Long power sword",
+    "flavor": "",
+    "portrait": "/energized/entities/weapons/long_power_sword/long_power_sword.png",
+    "workshop": "energized:workbenches:engineer_energizer",
+    "level_requirement": 5,
+    "ingredients": [
+        {
+            "uri": "stonehearth:weapons:long_sword",
+            "count": 1
+        },
+        {
+            "uri": "energized:resources:powercell",
+            "count": 2
+        }
+    ],
+    "produces": [
+        {
+            "item": "energized:weapons:long_power_sword"
+        }
+    ]
+}

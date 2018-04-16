@@ -43,6 +43,14 @@
             "recipe": "file(power_circlet_recipe.json)"
          }
       }
-   }
+   },
+   "weapons": {
+    "name": "Weapons",
+     "recipes": {
+        "long_power_sword": {
+           "recipe": "file(long_power_sword_recipe.json)"
+        }
+     }
+  }
   }
 }
