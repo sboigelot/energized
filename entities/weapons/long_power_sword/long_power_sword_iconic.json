@@ -1,0 +1,22 @@
+{
+   "mixins": "stonehearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(long_power_sword.qb)"
+            ]
+         }
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "Long power sword",
+         "description": "long power sword",
+         "icon": "file(long_power_sword.png)",
+         "is_item": true,
+         "category": "weapons"
+      }
+   }
+}
