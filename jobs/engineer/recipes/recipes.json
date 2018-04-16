@@ -47,9 +47,12 @@
    "weapons": {
     "name": "Weapons",
      "recipes": {
-        "long_power_sword": {
-           "recipe": "file(long_power_sword_recipe.json)"
-        }
+      "long_power_sword": {
+         "recipe": "file(long_power_sword_recipe.json)"
+      },
+      "recurve_power_bow": {
+         "recipe": "file(recurve_power_bow_recipe.json)"
+      }
      }
   }
   }
