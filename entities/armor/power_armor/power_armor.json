@@ -7,7 +7,7 @@
             "layer": "armor",
             "transparent": "false",
             "models": [
-               "file(steel_mail.qb)"
+               "file(power_armor.qb)"
             ]
          },
          "female": {
@@ -47,7 +47,7 @@
       "stonehearth:catalog": {
          "display_name": "power_armor",
          "description": "power_armor",
-         "icon": "file(steel_mail.png)",
+         "icon": "file(power_armor.png)",
          "category": "armor",
          "material_tags": "steel armor heavy_armor stockpile_equipment"
       }

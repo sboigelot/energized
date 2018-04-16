@@ -7,7 +7,7 @@
             "layer": "hat",
             "transparent": "true",
             "models": [
-               "file(steel_circlet.qb)"
+               "file(power_circlet.qb)"
             ]
          },
          "female": {
@@ -45,9 +45,9 @@
          }
       },
       "stonehearth:catalog": {
-         "display_name": "steel_circlet",
-         "description": "steel_circlet",
-         "icon": "file(steel_circlet.png)",
+         "display_name": "power_circlet",
+         "description": "power_circlet",
+         "icon": "file(power_circlet.png)",
          "category": "armor",
          "material_tags": "steel armor light_armor stockpile_equipment"
       }
