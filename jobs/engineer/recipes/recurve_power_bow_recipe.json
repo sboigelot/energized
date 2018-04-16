@@ -1,0 +1,26 @@
+{
+    "type": "recipe",
+    "effort": 120,
+    "work_units": 20,
+    "recipe_name": "Recurve Power Bow",
+    "description": "Recurve Power Bow",
+    "flavor": "",
+    "portrait": "/energized/entities/weapons/recurve_power_bow/recurve_power_bow.png",
+    "workshop": "energized:workbenches:engineer_energizer",
+    "level_requirement": 4,
+    "ingredients": [
+        {
+            "uri": "stonehearth:weapons:recurve_bow",
+            "count": 1
+        },
+        {
+            "uri": "energized:resources:powercell",
+            "count": 2
+        }
+    ],
+    "produces": [
+        {
+            "item": "energized:weapons:recurve_power_bow"
+        }
+    ]
+}

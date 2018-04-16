@@ -16,7 +16,9 @@
         "resources:powercell_empty": "file(entities/resources/powercell_empty/powercell_empty.json)",
         "effects:street_light_effect" : "file(data/effects/street_light_effect/street_light_effect.json)",
         "workbenches:engineer_energizer" : "file(jobs/engineer/engineer_energizer/engineer_energizer.json)",        
-        "weapons:long_power_sword" : "file(entities/weapons/long_power_sword/long_power_sword.json)"
+        "weapons:long_power_sword" : "file(entities/weapons/long_power_sword/long_power_sword.json)",
+        "weapons:recurve_power_bow" : "file(entities/weapons/recurve_power_bow/recurve_power_bow.json)",     
+        "weapons:power_ray" : "file(entities/weapons/power_ray/power_ray.json)"        
     },
     "mixintos": {
         "stonehearth/jobs/engineer/recipes/recipes.json": "file(jobs/engineer/recipes/recipes.json)",

@@ -1,0 +1,22 @@
+{
+   "type": "entity",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(power_ray.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": { "x": -0.05, "y": 0, "z": 0.05 }
+      },
+      "stonehearth:projectile": {}
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "power_ray",
+         "description": "power_ray"
+      }
+   }
+}
