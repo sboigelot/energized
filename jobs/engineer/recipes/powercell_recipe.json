@@ -6,7 +6,7 @@
     "flavor": "Stonehearthians will think this line of text",
     "portrait": "/energized/entities/resources/powercell/powercell.png",
     "workshop": "energized:workbenches:engineer_energizer",
-    "level_requirement": 0,
+    "level_requirement": 1,
     "ingredients": [
         {
             "uri": "energized:resources:powercell_empty",

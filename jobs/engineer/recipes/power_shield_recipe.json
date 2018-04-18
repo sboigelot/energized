@@ -7,7 +7,7 @@
    "flavor": "",
    "portrait": "/energized/entities/armor/power_shield/power_shield.png",
    "workshop": "energized:workbenches:engineer_energizer",
-   "level_requirement": 6,
+   "level_requirement": 4,
    "ingredients": [
     {
        "uri": "stonehearth:armor:steel_shield",

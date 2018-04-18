@@ -6,7 +6,7 @@
     "flavor": "Stonehearthians will think this line of text",
     "portrait": "/energized/entities/decorations/wooden_electric_street_light/wooden_electric_street_light.png",
     "workshop": "stonehearth:engineer:workbench",
-    "level_requirement": 0,
+    "level_requirement": 1,
     "ingredients": [
         {
             "uri": "energized:resources:powercell",

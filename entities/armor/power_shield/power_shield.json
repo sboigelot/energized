@@ -20,7 +20,7 @@
             "stonehearth:patrol",
             "stonehearth:have_shield"
          ],
-         "required_job_level": 3,
+         "required_job_level": 4,
          "ilevel": 5,
          "roles": "knight_job",
          "equip_effect": "stonehearth:effects:weapon_level_up"

@@ -26,7 +26,7 @@
          "slot": "helmet",
          "ilevel": 3,
          "roles": "cleric_job",
-         "required_job_level": 3,
+         "required_job_level": 4,
          "equip_effect": "stonehearth:effects:weapon_level_up"
       }
    },

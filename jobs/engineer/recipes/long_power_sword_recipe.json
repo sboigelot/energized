@@ -7,7 +7,7 @@
     "flavor": "",
     "portrait": "/energized/entities/weapons/long_power_sword/long_power_sword.png",
     "workshop": "energized:workbenches:engineer_energizer",
-    "level_requirement": 5,
+    "level_requirement": 4,
     "ingredients": [
         {
             "uri": "stonehearth:weapons:long_sword",
