@@ -1,8 +1,10 @@
 {
-    "info": {
-        "name": "energized",
-        "version": 3
-    },
+	"info" : {
+		"name" : "Energized",
+		"namespace" : "energized",
+		"version" : 3,
+		"steam_file_id" : "1364343353"
+	},
     "aliases": {
         "armor:power_circlet": "file(entities/armor/power_circlet/power_circlet.json)",
         "armor:power_helmet": "file(entities/armor/power_helmet)",
@@ -24,5 +26,8 @@
         "stonehearth/jobs/engineer/recipes/recipes.json": "file(jobs/engineer/recipes/recipes.json)",
         "stonehearth:farmer:initial_crops": "file(services/server/farming/data/initial_crops.json)",
         "stonehearth/services/server/farming/data/all_crops.json": "file(services/server/farming/data/all_crops.json)"
-    }
+    },
+	"overrides" : {},
+	"components" : {},
+	"controllers" : {}
 }
