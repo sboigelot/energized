@@ -5,6 +5,9 @@
       },
       "rayyas_children:kingdoms:rayyas_children": {
          "stormberry": true
+      },
+      "northern_alliance:kingdoms:northern_alliance": {
+         "stormberry": true
       }
    }
 }
